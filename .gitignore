@@ -21,3 +21,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/gtmobile/nbproject/private/
+/gtmobile/build/
+/gtmobile/dist/
+/BTL/gtmobile/nbproject/private/
+/BTL/gtmobile/dist/
+/BTL/gtmobile/build/
+/BTL/teamplate/target/
+/BTL/TeamPlate/nbproject/private/
+/BTL/TeamPlate/build/
+/BTL/TeamPlate/dist/
+/BTL/BTL/nbproject/private/
+/BTL/BTL/build/
